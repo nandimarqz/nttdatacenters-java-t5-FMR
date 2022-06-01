@@ -1,0 +1,1 @@
+cmd.exe /X /C ""F:\Herramientas Dual\JDK\jdk-17.0.2\bin\javadoc.exe" -J-Xmx512m @options @packages @argfile"

@@ -1,0 +1,22 @@
+<configuration debug="false" scan="false">
+
+
+	<timestamp key="fecha" datePattern="dd-MM-yyyy" />
+
+
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+    <file>F://Herramientas Dual//WorkSpaces//Java//nttdatacenters-java-t2-FMR//logs//logFMR${fecha}.log</file>
+    
+	<encoder>
+		<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - [%method] - %msg%n</pattern>
+	</encoder>
+  </appender>
+	
+ 	
+	<root level="DEBUG">
+    <appender-ref ref="FILE" />
+  </root>
+	
+
+	
+</configuration>
