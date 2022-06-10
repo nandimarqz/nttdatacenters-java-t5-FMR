@@ -1,0 +1,391 @@
+11:29:24.119 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:27.452 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:29:27.963 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:29:27.963 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:29:27.963 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Junior
+11:29:27.964 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:29:27.964 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:28.405 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:29.462 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:29.463 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:29.463 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:29.463 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:29.463 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:29.463 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:29:29.464 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Fernando EN LA CATEGORÍA Junior
+11:29:29.464 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:29.464 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:29.900 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Pedro EN LA CATEGORÍA Junior
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:30.917 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:31.360 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:32.356 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:32.356 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:32.356 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:32.356 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:32.356 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:32.357 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:29:32.357 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Juan EN LA CATEGORÍA Junior
+11:29:32.357 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:32.357 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:32.790 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:29:33.328 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:29:33.328 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:29:33.329 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Analyst
+11:29:33.330 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:29:33.330 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:33.768 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:34.806 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:29:34.807 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Manolo EN LA CATEGORÍA Analyst
+11:29:34.807 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:34.807 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:35.252 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:36.277 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:36.277 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:36.277 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:36.277 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:36.278 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:36.278 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:29:36.278 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Julio EN LA CATEGORÍA Analyst
+11:29:36.278 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:36.278 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:36.722 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Jesus EN LA CATEGORÍA Analyst
+11:29:37.747 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:29:37.748 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:29:43.301 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:29:43.302 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:29:43.761 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:29:43.761 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:31:03.066 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:31:03.066 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:31:03.089 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:31:03.089 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:12.931 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:14.737 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:33:15.252 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:33:15.253 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:33:15.254 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Junior
+11:33:15.259 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:33:15.260 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:15.688 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:16.749 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:16.749 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:16.749 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Fernando EN LA CATEGORÍA Junior
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:16.750 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:17.187 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Pedro EN LA CATEGORÍA Junior
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:18.202 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:18.638 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:33:19.634 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Juan EN LA CATEGORÍA Junior
+11:33:19.635 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:19.635 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:20.077 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:33:20.604 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:33:20.604 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:33:20.604 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Analyst
+11:33:20.604 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:33:20.604 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:21.046 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Manolo EN LA CATEGORÍA Analyst
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:22.089 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:22.528 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:23.560 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:23.560 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Julio EN LA CATEGORÍA Analyst
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:23.561 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:23.994 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:33:25.027 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Jesus EN LA CATEGORÍA Analyst
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:33:25.028 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:33:31.003 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:33:31.003 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:45:04.899 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:06.698 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:45:07.217 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:45:07.217 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:45:07.217 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Junior
+11:45:07.222 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:45:07.223 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:07.650 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:08.715 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:08.715 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:08.715 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Fernando EN LA CATEGORÍA Junior
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:08.716 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:09.151 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Pedro EN LA CATEGORÍA Junior
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:10.168 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:10.603 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Juan EN LA CATEGORÍA Junior
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:11.603 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:12.043 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:45:12.575 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:45:12.576 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:45:12.576 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Analyst
+11:45:12.576 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:45:12.576 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:13.010 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Manolo EN LA CATEGORÍA Analyst
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:14.061 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:14.501 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Julio EN LA CATEGORÍA Analyst
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:15.530 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:15.962 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Jesus EN LA CATEGORÍA Analyst
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:45:16.995 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:45:20.329 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:45:20.329 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:45:20.797 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:45:20.797 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:49:55.604 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:49:58.145 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:49:58.653 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:49:58.653 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:49:58.653 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Junior
+11:49:58.654 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:49:58.654 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:49:59.092 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:00.157 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:00.157 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:00.158 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:00.159 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:00.159 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:00.159 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:50:00.160 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Fernando EN LA CATEGORÍA Junior
+11:50:00.160 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:00.160 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:00.587 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Pedro EN LA CATEGORÍA Junior
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:01.605 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:02.040 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Juan EN LA CATEGORÍA Junior
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:03.044 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:03.478 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:50:04.012 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:50:04.012 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:50:04.012 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Analyst
+11:50:04.012 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:50:04.013 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:04.449 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:50:05.495 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Manolo EN LA CATEGORÍA Analyst
+11:50:05.496 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:05.496 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:05.937 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:06.968 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:06.968 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:06.968 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:06.968 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:06.968 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:06.969 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:50:06.969 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Julio EN LA CATEGORÍA Analyst
+11:50:06.969 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:06.969 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:07.406 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Jesus EN LA CATEGORÍA Analyst
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:50:08.434 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:10.384 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:50:10.384 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:50:10.848 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:50:10.848 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:57.261 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:50:59.634 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:51:00.156 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:51:00.157 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:51:00.157 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Junior
+11:51:00.160 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:51:00.160 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:00.588 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:01.655 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:01.655 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Fernando EN LA CATEGORÍA Junior
+11:51:01.656 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:01.657 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:02.098 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:03.104 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:51:03.105 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Pedro EN LA CATEGORÍA Junior
+11:51:03.105 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:03.105 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:03.543 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:04.543 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA JUNIOR
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Juan EN LA CATEGORÍA Junior
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:04.544 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:04.977 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 1
+11:51:05.508 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - INICIO DEL MÉTODO
+11:51:05.508 [main] INFO  n.j.business.ManagmentServiceImpl - [numberOfCategories] - DEVOLVIENDO NUMERO DE CATEGORÍAS
+11:51:05.509 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - SE HA INSERTADO LA CATEGORÍA Analyst
+11:51:05.509 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeCategory] - FIN DEL MÉTODO
+11:51:05.509 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:05.951 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:06.994 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:06.994 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:06.994 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:06.994 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:06.995 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:06.995 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:51:06.995 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Manolo EN LA CATEGORÍA Analyst
+11:51:06.995 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:06.995 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:07.433 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:08.468 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:51:08.469 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Julio EN LA CATEGORÍA Analyst
+11:51:08.469 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:08.469 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:08.902 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 2
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INICIO DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - INICIO DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [checkCategory] - FIN DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - INICIO DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [checkEmployee] - FIN DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [numberEmployeesInCategory] - DEVOLVIENDO EL NUMERO DE EMPLEADOS EN LA CATEGORÍA ANALYST
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - INSERTANDO EL EMPLEADO Jesus EN LA CATEGORÍA Analyst
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [dischargeEmployee] - FIN DEL MÉTODO
+11:51:09.935 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:12.428 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:51:12.428 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:51:12.885 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:51:12.885 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu
+11:51:38.673 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Caso 8
+11:51:38.673 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - INICIO DEL MÉTODO
+11:51:38.692 [main] INFO  n.j.business.ManagmentServiceImpl - [showEmployees] - FIN DEL MÉTODO
+11:51:38.692 [main] INFO  n.j.business.ManagmentServiceImpl - [main] - Se genera el menu

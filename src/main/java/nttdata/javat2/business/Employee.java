@@ -11,7 +11,7 @@ import java.util.Objects;
 public class Employee implements Comparable<Employee> {
 
 	/** ID del empleado en la empresa */
-	private int id;
+	private Integer id;
 
 	/** Nombre del empleado */
 	private String name;
@@ -29,11 +29,13 @@ public class Employee implements Comparable<Employee> {
 	 * @param name
 	 * @param category
 	 */
-	public Employee(int id, String name, String category) {
+	public Employee(Integer id, String name, String category) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.category = category;
+		
+		
 	}
 
 	/**
@@ -41,7 +43,7 @@ public class Employee implements Comparable<Employee> {
 	 * 
 	 * @return Integer
 	 */
-	public int getId() {
+	public Integer getId() {
 
 		return id;
 
@@ -52,7 +54,7 @@ public class Employee implements Comparable<Employee> {
 	 * 
 	 * @param id
 	 */
-	public void setId(int id) {
+	public void setId(Integer id) {
 
 		this.id = id;
 

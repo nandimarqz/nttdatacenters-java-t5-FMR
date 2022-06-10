@@ -34,8 +34,9 @@ public interface ManagmentServiceI {
 	 * Método para que devuelve un String con los empleados de la empresa
 	 * 
 	 * @return String
+	 * @throws CategoryNotFound 
 	 */
-	public String showEmployees();
+	public String showEmployees() throws CategoryNotFound;
 
 	/**
 	 * Método que devuelve el numero de empleados de la empresa
